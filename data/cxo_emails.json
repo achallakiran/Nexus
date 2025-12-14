@@ -1,0 +1,499 @@
+[
+  {
+    "ts": "2025-12-11T13:41:26.948559+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T13:41:56.991847+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T13:42:27.035351+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T13:42:57.080544+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T13:43:27.125304+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T14:39:55.490933+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T14:40:25.535082+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T14:40:55.576503+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T14:41:25.611629+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T14:53:29.584040+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T14:53:59.629917+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T14:54:29.677929+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T14:54:59.722787+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T14:55:29.779181+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T14:55:59.828747+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T14:56:29.884714+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T14:56:59.934033+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T14:57:29.978465+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T14:58:00.029116+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T14:58:30.082590+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T14:59:00.126462+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T14:59:30.165823+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:00:00.205980+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:00:30.263581+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:01:00.322613+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:01:30.361875+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:02:00.421517+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:02:30.480465+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:20:22.815223+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:20:52.864320+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:21:22.927148+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:21:52.991966+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:22:23.069013+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:22:53.142081+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:23:23.200566+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:23:53.255537+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:24:23.314052+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:24:53.379617+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:25:23.428818+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:25:53.480160+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:26:23.532557+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:26:53.591658+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:27:23.652835+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:27:53.707542+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:28:23.760608+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:28:53.812926+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:29:23.867531+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:29:53.919302+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:30:23.955975+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:30:54.038375+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:31:24.076393+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:31:54.125031+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:32:24.163901+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:32:54.221721+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:33:24.290485+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:33:54.341616+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:34:24.382388+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:34:54.431842+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:35:24.471869+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:35:54.525817+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:36:24.578370+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:36:54.632062+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:37:24.694364+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:37:54.751624+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:39:00.894089+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:39:30.931547+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:40:00.973055+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:41:11.428573+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:41:41.476167+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:42:11.520532+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  },
+  {
+    "ts": "2025-12-11T15:42:41.574561+00:00",
+    "to": "cxo.oncall@example.com",
+    "cc": "",
+    "subject": "[P2] CXO:reporting_export failed: Timeout contacting upstream",
+    "body": "Job: CXO:reporting_export\nTeam: CXO\nSeverity: P2\nError: Timeout contacting upstream\nDownstreams affected: (none)\n"
+  }
+]

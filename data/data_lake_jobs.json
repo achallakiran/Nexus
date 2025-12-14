@@ -1,0 +1,15 @@
+{
+  "DATA_LAKE:reporting_export": {
+    "key": "DATA_LAKE:reporting_export",
+    "name": "Reporting Export",
+    "team": "DATA_LAKE",
+    "status": "OK",
+    "upstream": "DATA_LAKE:analytics_rollup"
+  },
+  "DATA_LAKE:analytics_rollup": {
+    "key": "DATA_LAKE:analytics_rollup",
+    "name": "Analytics Rollup",
+    "team": "DATA_LAKE",
+    "status": "OK"
+  }
+}

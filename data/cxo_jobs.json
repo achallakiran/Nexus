@@ -1,0 +1,15 @@
+{
+  "CXO:reporting_export": {
+    "key": "CXO:reporting_export",
+    "name": "Reporting Export",
+    "team": "CXO",
+    "status": "ERROR",
+    "upstream": "CXO:analytics_rollup"
+  },
+  "CXO:analytics_rollup": {
+    "key": "CXO:analytics_rollup",
+    "name": "Analytics Rollup",
+    "team": "CXO",
+    "status": "OK"
+  }
+}

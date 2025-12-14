@@ -1,0 +1,31 @@
+{
+  "rules": [
+    {
+      "id": "timeout-restart",
+      "match": "timeout",
+      "mode": "contains",
+      "auto": false,
+      "action": "service_restart",
+      "updates_status_to": "OK",
+      "notes": "Transient connectivity issue; restart the service."
+    },
+    {
+      "id": "disk-full-cleanup",
+      "match": "disk full|no space left",
+      "mode": "regex",
+      "auto": false,
+      "action": "cleanup_temp",
+      "updates_status_to": "OK",
+      "notes": "Remove temp files and retry."
+    },
+    {
+      "id": "data-corruption-no-autofix",
+      "match": "corruption|crc error|checksum failed|data corruption",
+      "mode": "regex",
+      "auto": false,
+      "action": "manual_investigation_required",
+      "updates_status_to": null,
+      "notes": "Escalate to data quality owners; no auto fix."
+    }
+  ]
+}
