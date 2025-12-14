@@ -1,0 +1,4 @@
+fastmcp
+mcp
+PyYAML
+httpx
