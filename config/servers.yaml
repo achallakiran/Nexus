@@ -1,0 +1,20 @@
+poll_interval_seconds: 30
+
+servers:
+  - name: cxo
+    command: python
+    args: ["servers/team_mcp_min.py", "cxo"]
+    env:
+      LOG_LEVEL: info
+
+  - name: oms
+    command: python
+    args: ["servers/team_mcp_min.py", "oms"]
+    env:
+      LOG_LEVEL: info
+
+  - name: data_lake
+    command: python
+    args: ["servers/team_mcp_min.py", "data_lake"]
+    env:
+      LOG_LEVEL: info
